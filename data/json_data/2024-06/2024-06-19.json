@@ -1,0 +1,416 @@
+[
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "S",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "SOFT7",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/S/R/races/7"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/7"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "C",
+    "Race Number": 8,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/C/R/races/8"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/7"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "M",
+    "Race Number": 8,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/M/R/races/8"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/7"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "B",
+    "Race Number": 8,
+    "Race Type": "R",
+    "Track Condition": "GOOD4",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/B/R/races/8"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/7"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "W",
+    "Race Number": 8,
+    "Race Type": "R",
+    "Track Condition": "SOFT5",
+    "Weather": "FINE",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/W/R/races/8"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 1,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/1"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 2,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/2"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 3,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/3"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 4,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/4"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 5,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/5"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 6,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/6"
+  },
+  {
+    "Date": "2024-06-19",
+    "Venue": "A",
+    "Race Number": 7,
+    "Race Type": "R",
+    "Track Condition": "SOFT6",
+    "Weather": "OCAST",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2024-06-19/A/R/races/7"
+  }
+]

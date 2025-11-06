@@ -1,0 +1,3272 @@
+{
+  "raceNumber": 5,
+  "spectrumId": "MOONEER05",
+  "raceName": "LADBROKES 55 SECOND CHALLENGE FINAL",
+  "raceDistance": 955,
+  "trackDirection": "anticlockwise",
+  "meeting": {
+    "meetingName": "MOONEE VALLEY",
+    "venueMnemonic": "MVA",
+    "meetingDate": "2025-10-24",
+    "location": "VIC",
+    "raceType": "R",
+    "weatherCondition": "FINE",
+    "trackCondition": "GOOD4",
+    "sellCode": {
+      "meetingCode": "M",
+      "scheduledType": "R"
+    }
+  },
+  "skyRacing": {
+    "audio": "https://mediatabs.skyracing.com.au/Audio_Replay/2025/10/20251024MOVR05.mp3",
+    "video": "https://mediatabs.skyracing.com.au/Race_Replay/2025/10/20251024MOVR05_V.mp4"
+  },
+  "hasParimutuel": true,
+  "hasFixedOdds": true,
+  "broadcastChannel": null,
+  "broadcastChannels": [],
+  "hasForm": true,
+  "hasEarlySpeedRatings": true,
+  "allIn": false,
+  "cashOutEligibility": "Disabled",
+  "allowBundle": true,
+  "willHaveFixedOdds": true,
+  "fixedOddsOnlineBetting": true,
+  "raceStartTime": "2025-10-24T09:15:00.000Z",
+  "raceClassConditions": "3YO+ BM74",
+  "apprenticesCanClaim": true,
+  "prizeMoney": "$130000.00",
+  "raceStatus": "Normal",
+  "substitute": "NR",
+  "results": [],
+  "pools": [
+    {
+      "wageringProduct": "Win",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "poolHistory": [
+        {
+          "poolTotal": 9013.5,
+          "poolTotalTime": "2025-10-24T06:14:54.000Z",
+          "specialDisplayIndicator": false
+        },
+        {
+          "poolTotal": 8334.5,
+          "poolTotalTime": "2025-10-24T05:44:55.000Z",
+          "specialDisplayIndicator": false
+        },
+        {
+          "poolTotal": 8334.5,
+          "poolTotalTime": "2025-10-24T05:44:55.000Z",
+          "specialDisplayIndicator": false
+        },
+        {
+          "poolTotal": 7796.5,
+          "poolTotalTime": "2025-10-24T05:14:54.000Z",
+          "specialDisplayIndicator": false
+        }
+      ],
+      "poolTotal": 9013.5,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Place",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "poolTotal": 3187.5,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Quinella",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "_links": {
+        "approximates": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/pools/Quinella/approximates?jurisdiction=NSW"
+      },
+      "poolTotal": 1186,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Exacta",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "_links": {
+        "approximates": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/pools/Exacta/approximates?jurisdiction=NSW"
+      },
+      "poolTotal": 566.5,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Duet",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "_links": {
+        "approximates": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/pools/Duet/approximates?jurisdiction=NSW"
+      },
+      "poolTotal": 176.75,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Trifecta",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "poolTotal": 2565,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "FirstFour",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        }
+      ],
+      "poolTotal": 1403.5,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "RunningDouble",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Disabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        },
+        {
+          "legNumber": 2,
+          "raceNumber": 6,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:45:00.000Z"
+        }
+      ],
+      "poolTotal": 573,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    },
+    {
+      "wageringProduct": "Quaddie",
+      "legNumber": 1,
+      "poolStatusCode": "Open",
+      "cashOutEligibility": "Enabled",
+      "legs": [
+        {
+          "legNumber": 1,
+          "raceNumber": 5,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:15:00.000Z"
+        },
+        {
+          "legNumber": 2,
+          "raceNumber": 6,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T09:45:00.000Z"
+        },
+        {
+          "legNumber": 3,
+          "raceNumber": 7,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T10:15:00.000Z"
+        },
+        {
+          "legNumber": 4,
+          "raceNumber": 8,
+          "venueMnemonic": "MVA",
+          "raceType": "R",
+          "startTime": "2025-10-24T10:45:00.000Z"
+        }
+      ],
+      "poolTotal": 27892,
+      "jackpot": 0,
+      "cominglingHost": "NSW",
+      "cominglingHostName": "NSW TAB",
+      "cominglingGuests": true,
+      "substitute": "NYD"
+    }
+  ],
+  "allowMulti": true,
+  "allowParimutuelPlace": true,
+  "parimutuelPlaceStatus": "Open",
+  "allowFixedOddsPlace": true,
+  "numberOfPlaces": 3,
+  "numberOfFixedOddsPlaces": 3,
+  "runners": [
+    {
+      "runnerName": "SHIRSHOV",
+      "runnerNumber": 1,
+      "fixedOdds": {
+        "returnWin": 8,
+        "returnWinTime": "2025-10-24T02:10:51.000Z",
+        "returnWinOpen": 9.5,
+        "returnWinOpenDaily": 7,
+        "returnPlace": 2.2,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159351,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-24T01:55:26.000Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-24T00:48:21.000Z"
+          },
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-23T21:57:26.000Z"
+          },
+          {
+            "returnWin": 7,
+            "returnWinTime": "2025-10-23T20:55:47.000Z"
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-23T20:47:16.824Z"
+          },
+          {
+            "returnWin": 7,
+            "returnWinTime": "2025-10-23T20:55:47.371Z"
+          },
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-23T21:57:26.140Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-24T00:48:21.478Z"
+          },
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-24T01:55:26.000Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-24T02:10:51.499Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-23T04:18:19.183Z"
+          },
+          {
+            "returnWin": 9.5,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 8.5,
+            "returnWinTime": "2025-10-22T05:19:22.720Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-22T05:19:35.722Z"
+          },
+          {
+            "returnWin": 7,
+            "returnWinTime": "2025-10-22T05:21:18.082Z"
+          },
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-22T05:22:34.409Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          },
+          {
+            "returnWin": 7.5,
+            "returnWinTime": "2025-10-22T05:48:55.283Z"
+          },
+          {
+            "returnWin": 8.5,
+            "returnWinTime": "2025-10-23T06:52:22.846Z"
+          }
+        ],
+        "percentageChange": 7,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 7.8,
+        "returnPlace": 2.1,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 8.3,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 7.7,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 8.4,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -6
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/BLUE%2C%20WHITE%20HALVES%2C%20RED%20SLEEVES%2C%20QUARTERED%20CAP",
+      "trainerName": "P Stokes",
+      "vacantBox": false,
+      "trainerFullName": "PHILLIP STOKES",
+      "barrierNumber": 4,
+      "riderDriverName": "D Stackhouse",
+      "riderDriverFullName": "DANIEL STACKHOUSE",
+      "handicapWeight": 62.5,
+      "harnessHandicap": null,
+      "blinkers": true,
+      "claimAmount": -1,
+      "last5Starts": "36x52",
+      "tcdwIndicators": "TCDw",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 95,
+      "techFormRating": 0,
+      "totalRatingPoints": 1,
+      "earlySpeedRating": 92,
+      "earlySpeedRatingBand": "LEADER",
+      "fastForm": [
+        {
+          "type": "GoldenSwitch",
+          "keywords": "Blinkers",
+          "ranking": null
+        },
+        {
+          "type": "TopRated",
+          "keywords": null,
+          "ranking": 2
+        }
+      ],
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/1?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "GIN A TONIC",
+      "runnerNumber": 2,
+      "fixedOdds": {
+        "returnWin": 12,
+        "returnWinTime": "2025-10-23T21:06:00.000Z",
+        "returnWinOpen": 8,
+        "returnWinOpenDaily": 12,
+        "returnPlace": 2.9,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159352,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 11,
+            "returnWinTime": "2025-10-23T20:47:17.000Z"
+          },
+          {
+            "returnWin": 10,
+            "returnWinTime": "2025-10-22T20:07:41.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 9.5,
+            "returnWinTime": "2025-10-22T09:06:27.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 9,
+            "returnWinTime": "2025-10-22T08:27:19.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 10,
+            "returnWinTime": "2025-10-22T20:07:41.308Z"
+          },
+          {
+            "returnWin": 11,
+            "returnWinTime": "2025-10-23T20:47:16.824Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-23T21:05:59.705Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 8.5,
+            "returnWinTime": "2025-10-22T05:21:18.082Z"
+          },
+          {
+            "returnWin": 9.5,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          },
+          {
+            "returnWin": 9,
+            "returnWinTime": "2025-10-22T08:27:19.486Z"
+          },
+          {
+            "returnWin": 9.5,
+            "returnWinTime": "2025-10-22T09:06:26.600Z"
+          }
+        ],
+        "percentageChange": 9,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 13.4,
+        "returnPlace": 4.6,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 13.2,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 12.4,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 12.2,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": 3
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20EMERALD%20GREEN%20MALTESE%20CROSS%2C%20QUARTERED%20CAP",
+      "trainerName": "B Laming",
+      "vacantBox": false,
+      "trainerFullName": "BEVAN LAMING",
+      "barrierNumber": 7,
+      "riderDriverName": "E Brown",
+      "riderDriverFullName": "ETHAN BROWN",
+      "handicapWeight": 60,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "3120x",
+      "tcdwIndicators": "C W",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 89,
+      "techFormRating": 0,
+      "totalRatingPoints": 3,
+      "earlySpeedRating": 69,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/2?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "POWER OF THE BRAVE",
+      "runnerNumber": 3,
+      "fixedOdds": {
+        "returnWin": 12,
+        "returnWinTime": "2025-10-24T02:24:00.000Z",
+        "returnWinOpen": 8,
+        "returnWinOpenDaily": 12,
+        "returnPlace": 2.9,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159353,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-24T02:10:54.000Z"
+          },
+          {
+            "returnWin": 14,
+            "returnWinTime": "2025-10-24T02:10:45.000Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-23T22:25:40.000Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-23T06:52:23.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 11,
+            "returnWinTime": "2025-10-22T20:07:41.261Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-23T22:25:39.757Z"
+          },
+          {
+            "returnWin": 14,
+            "returnWinTime": "2025-10-24T02:10:45.444Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-24T02:10:54.249Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-24T02:23:59.639Z"
+          },
+          {
+            "returnWin": 8,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 8.5,
+            "returnWinTime": "2025-10-22T05:21:18.082Z"
+          },
+          {
+            "returnWin": 10,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-23T06:52:22.846Z"
+          }
+        ],
+        "percentageChange": -8,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 12.9,
+        "returnPlace": 3.1,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 12.3,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 11.9,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 11.2,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 10.9,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": 5
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/ROYAL%20BLUE%2C%20WHITE%20STAR%2C%20RED%20CAP",
+      "trainerName": "K Lees",
+      "vacantBox": false,
+      "trainerFullName": "KRIS LEES",
+      "barrierNumber": 2,
+      "riderDriverName": "W Stanley",
+      "riderDriverFullName": "WILLIAM STANLEY",
+      "handicapWeight": 59.5,
+      "harnessHandicap": null,
+      "blinkers": true,
+      "claimAmount": 3,
+      "last5Starts": "545x1",
+      "tcdwIndicators": "C W",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 95,
+      "techFormRating": 0,
+      "totalRatingPoints": 2,
+      "earlySpeedRating": 91,
+      "earlySpeedRatingBand": "LEADER",
+      "fastForm": [
+        {
+          "type": "TopRated",
+          "keywords": null,
+          "ranking": 3
+        },
+        {
+          "type": "LikelyLeader",
+          "keywords": null,
+          "ranking": null
+        }
+      ],
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/3?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "DIRECT",
+      "runnerNumber": 4,
+      "fixedOdds": {
+        "returnWin": 0,
+        "returnWinOpen": 0,
+        "returnWinOpenDaily": 0,
+        "returnPlace": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "LateScratched",
+        "propositionNumber": 159354,
+        "differential": null,
+        "returnHistory": [
+          {
+            "returnWin": null,
+            "returnWinTime": null
+          }
+        ],
+        "allowPlace": false,
+        "winDeduction": 0,
+        "placeDeduction": 0,
+        "scratchedTime": "2025-10-22T03:23:52.000Z"
+      },
+      "parimutuel": {
+        "returnWin": 0,
+        "returnPlace": 0,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Scratched"
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/PURPLE%20AND%20GOLD%20DIAMONDS%2C%20WHITE%20SLEEVES%20AND%20CAP",
+      "trainerName": "D McCarthy",
+      "vacantBox": false,
+      "trainerFullName": "DANIEL MCCARTHY",
+      "barrierNumber": 13,
+      "riderDriverName": "C Gaudray",
+      "riderDriverFullName": "CELINE GAUDRAY",
+      "handicapWeight": 59,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "x307x",
+      "tcdwIndicators": "tCdw",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 76,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 46,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/4?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "HULM",
+      "runnerNumber": 5,
+      "fixedOdds": {
+        "returnWin": 41,
+        "returnWinTime": "2025-10-23T06:13:03.000Z",
+        "returnWinOpen": 41,
+        "returnWinOpenDaily": 41,
+        "returnPlace": 7,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159355,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:22:34.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:19:54.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:18:45.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-23T06:13:03.114Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:19:54.444Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:22:34.409Z"
+          }
+        ],
+        "percentageChange": 21,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 28.5,
+        "returnPlace": 10.8,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 26.9,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 26.6,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 24.8,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 24.8,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": 6
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/RED%2C%20WHITE%20SASH%2C%20QUARTERED%20CAP",
+      "trainerName": "P McVicar",
+      "vacantBox": false,
+      "trainerFullName": "PAUL MCVICAR",
+      "barrierNumber": 10,
+      "riderDriverName": "L Nolen",
+      "riderDriverFullName": "LUKE NOLEN",
+      "handicapWeight": 59,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "7x915",
+      "tcdwIndicators": "C w",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 81,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 72,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/5?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "KA YING LUCKY",
+      "runnerNumber": 6,
+      "fixedOdds": {
+        "returnWin": 71,
+        "returnWinTime": "2025-10-24T00:48:21.000Z",
+        "returnWinOpen": 41,
+        "returnWinOpenDaily": 61,
+        "returnPlace": 11,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159356,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-23T04:18:29.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:48:55.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-22T05:39:32.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:19:54.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 71,
+            "returnWinTime": "2025-10-24T00:48:21.462Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-23T04:18:28.793Z"
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:19:54.444Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:48:55.298Z"
+          }
+        ],
+        "percentageChange": 16,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 55.4,
+        "returnPlace": 7.4,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 67.8,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 65.3,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 71.2,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 75.8,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -18
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20EMERALD%20GREEN%20SHAMROCK",
+      "trainerName": "S Gordon",
+      "vacantBox": false,
+      "trainerFullName": "SUZY GORDON",
+      "barrierNumber": 12,
+      "riderDriverName": "R Houston",
+      "riderDriverFullName": "RYAN HOUSTON",
+      "handicapWeight": 59,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": 2,
+      "last5Starts": "26104",
+      "tcdwIndicators": "C w",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 76,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 46,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/6?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "LAZY SUSAN",
+      "runnerNumber": 7,
+      "fixedOdds": {
+        "returnWin": 51,
+        "returnWinTime": "2025-10-24T02:10:45.000Z",
+        "returnWinOpen": 41,
+        "returnWinOpenDaily": 61,
+        "returnPlace": 9,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159357,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-24T01:46:29.000Z"
+          },
+          {
+            "returnWin": 71,
+            "returnWinTime": "2025-10-24T00:48:21.000Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-23T04:18:29.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T08:27:19.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 71,
+            "returnWinTime": "2025-10-24T00:48:21.462Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-24T01:46:28.996Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-24T02:10:45.444Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-23T04:18:28.793Z"
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T05:19:54.444Z"
+          },
+          {
+            "returnWin": 61,
+            "returnWinTime": "2025-10-22T05:28:24.681Z"
+          },
+          {
+            "returnWin": 51,
+            "returnWinTime": "2025-10-22T08:27:19.486Z"
+          }
+        ],
+        "percentageChange": -16,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 26.7,
+        "returnPlace": 4.3,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 27.1,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 28.7,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 28.3,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 28.7,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -1
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/DEEP%20NAVY%2C%20MAILBAG%20BLOODSTOCK%20LOGO%2C%20WHITE%20WITH%20ORANGE%20SPOTS%20SLEEVES%20AND%20CAP",
+      "trainerName": "K Corstens",
+      "vacantBox": false,
+      "trainerFullName": "K CORSTENS",
+      "barrierNumber": 3,
+      "riderDriverName": "L Cartwright",
+      "riderDriverFullName": "LUKE CARTWRIGHT",
+      "handicapWeight": 59,
+      "harnessHandicap": null,
+      "blinkers": true,
+      "claimAmount": 2,
+      "last5Starts": "14x89",
+      "tcdwIndicators": "tCD",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 74,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 55,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/7?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "THE SHOWVINIST",
+      "runnerNumber": 8,
+      "fixedOdds": {
+        "returnWin": 17,
+        "returnWinTime": "2025-10-24T02:10:45.000Z",
+        "returnWinOpen": 13,
+        "returnWinOpenDaily": 17,
+        "returnPlace": 3.6,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159358,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 16,
+            "returnWinTime": "2025-10-23T21:57:26.000Z"
+          },
+          {
+            "returnWin": 17,
+            "returnWinTime": "2025-10-23T21:06:00.000Z"
+          },
+          {
+            "returnWin": 16,
+            "returnWinTime": "2025-10-23T20:47:17.000Z"
+          },
+          {
+            "returnWin": 15,
+            "returnWinTime": "2025-10-23T11:50:04.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 16,
+            "returnWinTime": "2025-10-23T20:47:16.809Z"
+          },
+          {
+            "returnWin": 17,
+            "returnWinTime": "2025-10-23T21:05:59.705Z"
+          },
+          {
+            "returnWin": 16,
+            "returnWinTime": "2025-10-23T21:57:26.140Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-23T00:59:11.004Z"
+          },
+          {
+            "returnWin": 17,
+            "returnWinTime": "2025-10-24T02:10:45.444Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 14,
+            "returnWinTime": "2025-10-23T06:12:38.315Z"
+          },
+          {
+            "returnWin": 14,
+            "returnWinTime": "2025-10-22T05:19:35.722Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 13,
+            "returnWinTime": "2025-10-22T05:39:32.464Z"
+          },
+          {
+            "returnWin": 12,
+            "returnWinTime": "2025-10-22T05:48:55.283Z"
+          },
+          {
+            "returnWin": 15,
+            "returnWinTime": "2025-10-23T11:50:03.706Z"
+          }
+        ],
+        "percentageChange": 6,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 15.9,
+        "returnPlace": 3,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 16.7,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 16.8,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 16.7,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 17.3,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -5
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/LIME%20GREEN%2C%20BLACK%20SPOTS%2C%20LIME%20GREEN%20CAP%20WITH%20BLACK%20SPOTS",
+      "trainerName": "B, W & J Hayes",
+      "vacantBox": false,
+      "trainerFullName": "BEN, WILL & JD HAYES",
+      "barrierNumber": 6,
+      "riderDriverName": "M Dee",
+      "riderDriverFullName": "MICHAEL DEE",
+      "handicapWeight": 59,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "5862x",
+      "tcdwIndicators": "tC",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 90,
+      "techFormRating": 0,
+      "totalRatingPoints": 1,
+      "earlySpeedRating": 37,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "fastForm": [
+        {
+          "type": "SectionalStar",
+          "keywords": null,
+          "ranking": null
+        }
+      ],
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/8?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "MIDNIGHT DEVIL",
+      "runnerNumber": 9,
+      "fixedOdds": {
+        "returnWin": 34,
+        "returnWinTime": "2025-10-22T05:21:18.000Z",
+        "returnWinOpen": 26,
+        "returnWinOpenDaily": 34,
+        "returnPlace": 6,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159359,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:19:23.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T05:18:45.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:19:22.720Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:21:18.082Z"
+          }
+        ],
+        "percentageChange": 10,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 27.6,
+        "returnPlace": 6.5,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 27.2,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 26.6,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 27.5,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 25.3,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": 1
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20RED%20SASH%2C%20WHITE%2C%20RED%20AND%20BLACK%20HOOPED%20SLEEVES%2C%20WHITE%2C%20RED%20AND%20BLACK%20SPOTS%20CAP",
+      "trainerName": "E Jusufovic",
+      "vacantBox": false,
+      "trainerFullName": "ENVER JUSUFOVIC",
+      "barrierNumber": 5,
+      "riderDriverName": "R Hammond",
+      "riderDriverFullName": "ROSE HAMMOND",
+      "handicapWeight": 58,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": 3,
+      "last5Starts": "57x02",
+      "tcdwIndicators": "TC w",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 94,
+      "techFormRating": 0,
+      "totalRatingPoints": 3,
+      "earlySpeedRating": 85,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/9?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "ONE HARD LADY",
+      "runnerNumber": 10,
+      "fixedOdds": {
+        "returnWin": 4.4,
+        "returnWinTime": "2025-10-23T22:25:39.000Z",
+        "returnWinOpen": 4.8,
+        "returnWinOpenDaily": 4.4,
+        "returnPlace": 1.6,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159360,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 4.6,
+            "returnWinTime": "2025-10-23T21:57:26.000Z"
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-23T06:13:03.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 4.2,
+            "returnWinTime": "2025-10-23T06:12:38.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-23T04:18:29.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 4.6,
+            "returnWinTime": "2025-10-23T21:57:26.140Z"
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-23T22:25:39.213Z"
+          },
+          {
+            "returnWin": 5,
+            "returnWinTime": "2025-10-23T00:59:11.004Z"
+          },
+          {
+            "returnWin": 4.6,
+            "returnWinTime": "2025-10-23T01:03:25.551Z"
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-23T04:18:28.793Z"
+          },
+          {
+            "returnWin": 4.8,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 4.2,
+            "returnWinTime": "2025-10-23T06:12:38.315Z"
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-23T06:13:03.114Z"
+          },
+          {
+            "returnWin": 5,
+            "returnWinTime": "2025-10-22T05:19:35.722Z"
+          },
+          {
+            "returnWin": 5.5,
+            "returnWinTime": "2025-10-22T08:27:19.486Z"
+          }
+        ],
+        "percentageChange": -4,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 4.2,
+        "returnPlace": 1.6,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": true,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 4.3,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 4.6,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 4.4,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -2
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/CREAM%2C%20BLACK%20DIAMOND%2C%20DOUBLE%20H%2C%20DIAMONDS%20SLEEVES%2C%20QUARTERED%20CAP",
+      "trainerName": "D Scott",
+      "vacantBox": false,
+      "trainerFullName": "DONNA SCOTT",
+      "barrierNumber": 1,
+      "riderDriverName": "B McDougall",
+      "riderDriverFullName": "BLAIKE MCDOUGALL",
+      "handicapWeight": 58,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "127x1",
+      "tcdwIndicators": "TCDW",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 94,
+      "techFormRating": 0,
+      "totalRatingPoints": 10,
+      "earlySpeedRating": 82,
+      "earlySpeedRatingBand": "LEADER",
+      "fastForm": [
+        {
+          "type": "WinnersWin",
+          "keywords": null,
+          "ranking": null
+        },
+        {
+          "type": "Profiler",
+          "keywords": "Distance",
+          "ranking": null
+        },
+        {
+          "type": "GoldenSwitch",
+          "keywords": "Jockey",
+          "ranking": null
+        }
+      ],
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/10?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "FIELDELO",
+      "runnerNumber": 11,
+      "fixedOdds": {
+        "returnWin": 1.95,
+        "returnWinTime": "2025-10-24T01:55:26.000Z",
+        "returnWinOpen": 2.3,
+        "returnWinOpenDaily": 1.95,
+        "returnPlace": 1.2,
+        "isFavouriteWin": true,
+        "isFavouritePlace": true,
+        "bettingStatus": "Open",
+        "propositionNumber": 159361,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 1.9,
+            "returnWinTime": "2025-10-24T00:48:21.000Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-23T21:57:26.000Z"
+          },
+          {
+            "returnWin": 2,
+            "returnWinTime": "2025-10-23T21:07:33.000Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-23T21:06:00.000Z"
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 2,
+            "returnWinTime": "2025-10-23T20:47:16.809Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-23T21:05:59.705Z"
+          },
+          {
+            "returnWin": 2,
+            "returnWinTime": "2025-10-23T21:07:33.345Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-23T21:57:26.140Z"
+          },
+          {
+            "returnWin": 2.1,
+            "returnWinTime": "2025-10-23T01:03:25.551Z"
+          },
+          {
+            "returnWin": 1.9,
+            "returnWinTime": "2025-10-24T00:48:21.478Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-24T01:55:26.000Z"
+          },
+          {
+            "returnWin": 2.3,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 2.25,
+            "returnWinTime": "2025-10-22T05:19:22.720Z"
+          },
+          {
+            "returnWin": 2,
+            "returnWinTime": "2025-10-23T06:13:03.114Z"
+          },
+          {
+            "returnWin": 2.15,
+            "returnWinTime": "2025-10-22T05:19:54.444Z"
+          },
+          {
+            "returnWin": 2.2,
+            "returnWinTime": "2025-10-22T05:21:18.082Z"
+          },
+          {
+            "returnWin": 2.15,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          },
+          {
+            "returnWin": 2.1,
+            "returnWinTime": "2025-10-22T05:48:55.283Z"
+          },
+          {
+            "returnWin": 1.95,
+            "returnWinTime": "2025-10-23T09:21:33.485Z"
+          },
+          {
+            "returnWin": 2,
+            "returnWinTime": "2025-10-22T09:06:26.616Z"
+          }
+        ],
+        "percentageChange": 3,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 2.5,
+        "returnPlace": 1.8,
+        "returnExact2": 0,
+        "isFavouriteWin": true,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 2.4,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 2.4,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 2.5,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 2.5,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": 4
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/MAROON%2C%20YELLOW%20EPAULETTES%20AND%20SLEEVES%2C%20MAROON%20ARMBANDS%20AND%20CAP%2C%20YELLOW%20STAR",
+      "trainerName": "T Lake",
+      "vacantBox": false,
+      "trainerFullName": "TOBY LAKE",
+      "barrierNumber": 8,
+      "riderDriverName": "R McLeod",
+      "riderDriverFullName": "RHYS MCLEOD",
+      "handicapWeight": 56.5,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "1242x",
+      "tcdwIndicators": "C W",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 100,
+      "techFormRating": 0,
+      "totalRatingPoints": 13,
+      "earlySpeedRating": 58,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "fastForm": [
+        {
+          "type": "Rocket",
+          "keywords": null,
+          "ranking": null
+        },
+        {
+          "type": "Profiler",
+          "keywords": "SRAC",
+          "ranking": null
+        },
+        {
+          "type": "TopRated",
+          "keywords": null,
+          "ranking": 1
+        }
+      ],
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/11?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "VEXATIOUS DANCER",
+      "runnerNumber": 12,
+      "fixedOdds": {
+        "returnWin": 34,
+        "returnWinTime": "2025-10-22T20:38:36.000Z",
+        "returnWinOpen": 34,
+        "returnWinOpenDaily": 34,
+        "returnPlace": 6,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159362,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T08:27:19.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:39:32.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:28:05.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T05:22:34.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T20:38:35.878Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:19:54.444Z"
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T05:22:34.409Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T08:27:19.486Z"
+          }
+        ],
+        "percentageChange": 10,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 30.6,
+        "returnPlace": 5.4,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 30.9,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 29,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 28,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 25.9,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -1
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/SILVER%2C%20PURPLE%20STAR%2C%20BLACK%20WITH%20MAGENTA%20STARS%20SLEEVES%20AND%20CAP",
+      "trainerName": "N Irwin",
+      "vacantBox": false,
+      "trainerFullName": "NICOLE IRWIN",
+      "barrierNumber": 11,
+      "riderDriverName": "C Newitt",
+      "riderDriverFullName": "CRAIG NEWITT",
+      "handicapWeight": 56.5,
+      "harnessHandicap": null,
+      "blinkers": true,
+      "claimAmount": -1,
+      "last5Starts": "147x6",
+      "tcdwIndicators": "C W",
+      "emergency": false,
+      "penalty": null,
+      "dfsFormRating": 85,
+      "techFormRating": 0,
+      "totalRatingPoints": 3,
+      "earlySpeedRating": 100,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/12?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "FILEETA",
+      "runnerNumber": 13,
+      "fixedOdds": {
+        "returnWin": 31,
+        "returnWinTime": "2025-10-24T01:55:26.000Z",
+        "returnWinOpen": 18,
+        "returnWinOpenDaily": 31,
+        "returnPlace": 6,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "Open",
+        "propositionNumber": 159363,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-24T00:48:21.000Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-23T07:26:55.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-23T06:52:23.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-23T06:13:03.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-24T00:48:21.462Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-24T01:55:26.000Z"
+          },
+          {
+            "returnWin": 18,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 19,
+            "returnWinTime": "2025-10-22T05:19:22.720Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-23T06:13:03.114Z"
+          },
+          {
+            "returnWin": 21,
+            "returnWinTime": "2025-10-22T05:22:34.409Z"
+          },
+          {
+            "returnWin": 23,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T05:28:24.681Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-23T06:52:22.846Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-23T07:26:55.405Z"
+          }
+        ],
+        "percentageChange": -9,
+        "allowPlace": true
+      },
+      "parimutuel": {
+        "returnWin": 24,
+        "returnPlace": 4,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Open",
+        "marketMovers": [
+          {
+            "returnWin": 25.2,
+            "returnWinTime": "2025-10-24T05:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 27.2,
+            "returnWinTime": "2025-10-24T05:14:54.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 24.9,
+            "returnWinTime": "2025-10-24T04:44:55.000Z",
+            "specialDisplayIndicator": false
+          },
+          {
+            "returnWin": 28.8,
+            "returnWinTime": "2025-10-24T04:14:56.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -5
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/CERISE%20AND%20GREY%20CHECKS%2C%20GREY%20SLEEVES%2C%20CERISE%20CAP%20WITH%20CHECKED%20POM%20POM",
+      "trainerName": "P Koumis",
+      "vacantBox": false,
+      "trainerFullName": "PAUL KOUMIS",
+      "barrierNumber": 9,
+      "riderDriverName": "B Mertens",
+      "riderDriverFullName": "BEAU MERTENS",
+      "handicapWeight": 56,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "15x63",
+      "tcdwIndicators": "tCd",
+      "emergency": true,
+      "penalty": null,
+      "dfsFormRating": 89,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 81,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/13?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "DAPPER DARRI",
+      "runnerNumber": 14,
+      "fixedOdds": {
+        "returnWin": 1.01,
+        "returnWinTime": "2025-10-23T20:55:45.000Z",
+        "returnWinOpen": 31,
+        "returnWinOpenDaily": 1.01,
+        "returnPlace": 1.01,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "LateScratched",
+        "propositionNumber": 159364,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:39:32.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:28:05.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:18:45.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 1.01,
+            "returnWinTime": "2025-10-23T20:55:44.689Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          },
+          {
+            "returnWin": 41,
+            "returnWinTime": "2025-10-22T05:39:32.448Z"
+          }
+        ],
+        "percentageChange": -98,
+        "allowPlace": true,
+        "winDeduction": 0,
+        "placeDeduction": 0,
+        "scratchedTime": "2025-10-23T20:55:42.000Z"
+      },
+      "parimutuel": {
+        "returnWin": 0,
+        "returnPlace": 0,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Scratched",
+        "marketMovers": [
+          {
+            "returnWin": 44.9,
+            "returnWinTime": "2025-10-23T18:41:30.000Z",
+            "specialDisplayIndicator": false
+          }
+        ],
+        "percentageChange": -100
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20ROYAL%20BLUE%20CHEVRONS%2C%20ORANGE%20CAP",
+      "trainerName": "S Eden",
+      "vacantBox": false,
+      "trainerFullName": "SHEA EDEN",
+      "barrierNumber": 12,
+      "riderDriverName": "Not Notified",
+      "riderDriverFullName": "NOT NOTIFIED",
+      "handicapWeight": 57.5,
+      "harnessHandicap": null,
+      "blinkers": true,
+      "claimAmount": -1,
+      "last5Starts": "x1060",
+      "tcdwIndicators": "C W",
+      "emergency": true,
+      "penalty": null,
+      "dfsFormRating": 93,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 49,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/14?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "OCTRAIN",
+      "runnerNumber": 15,
+      "fixedOdds": {
+        "returnWin": 1.01,
+        "returnWinTime": "2025-10-23T20:55:45.000Z",
+        "returnWinOpen": 31,
+        "returnWinOpenDaily": 1.01,
+        "returnPlace": 1.01,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "LateScratched",
+        "propositionNumber": 159365,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-23T04:18:19.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 23,
+            "returnWinTime": "2025-10-23T01:03:26.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T20:38:36.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:28:05.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 1.01,
+            "returnWinTime": "2025-10-23T20:55:45.173Z"
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-22T20:38:35.878Z"
+          },
+          {
+            "returnWin": 23,
+            "returnWinTime": "2025-10-23T01:03:25.551Z"
+          },
+          {
+            "returnWin": 26,
+            "returnWinTime": "2025-10-23T04:18:19.183Z"
+          },
+          {
+            "returnWin": 31,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 34,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          }
+        ],
+        "percentageChange": -96,
+        "allowPlace": true,
+        "winDeduction": 0,
+        "placeDeduction": 0,
+        "scratchedTime": "2025-10-23T20:55:43.000Z"
+      },
+      "parimutuel": {
+        "returnWin": 0,
+        "returnPlace": 0,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Scratched"
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/BLACK%2C%20HOT%20PINK%20DIAMOND%20AND%20ARMBANDS",
+      "trainerName": "M Croston & G Gilmour",
+      "vacantBox": false,
+      "trainerFullName": "MONICA CROSTON & GERRAD GILMOUR",
+      "barrierNumber": 10,
+      "riderDriverName": "Not Notified",
+      "riderDriverFullName": "NOT NOTIFIED",
+      "handicapWeight": 57.5,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "365x4",
+      "tcdwIndicators": "tCdw",
+      "emergency": true,
+      "penalty": null,
+      "dfsFormRating": 91,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 48,
+      "earlySpeedRatingBand": "MIDFIELD",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/15?jurisdiction=NSW"
+      }
+    },
+    {
+      "runnerName": "JAHANGIR",
+      "runnerNumber": 16,
+      "fixedOdds": {
+        "returnWin": 1.01,
+        "returnWinTime": "2025-10-22T20:07:39.000Z",
+        "returnWinOpen": 15,
+        "returnWinOpenDaily": 1.01,
+        "returnPlace": 1.01,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "bettingStatus": "LateScratched",
+        "propositionNumber": 159366,
+        "differential": null,
+        "flucs": [
+          {
+            "returnWin": 17,
+            "returnWinTime": "2025-10-22T05:28:05.000Z",
+            "isPreviousDay": true
+          },
+          {
+            "returnWin": 15,
+            "returnWinTime": "2025-10-22T05:18:45.000Z",
+            "isPreviousDay": true
+          }
+        ],
+        "returnHistory": [
+          {
+            "returnWin": 1.01,
+            "returnWinTime": "2025-10-22T20:07:39.060Z"
+          },
+          {
+            "returnWin": 15,
+            "returnWinTime": "2025-10-22T05:18:45.018Z"
+          },
+          {
+            "returnWin": 17,
+            "returnWinTime": "2025-10-22T05:28:04.621Z"
+          }
+        ],
+        "percentageChange": -94,
+        "allowPlace": false,
+        "winDeduction": 0,
+        "placeDeduction": 0,
+        "scratchedTime": "2025-10-22T20:07:38.000Z"
+      },
+      "parimutuel": {
+        "returnWin": 0,
+        "returnPlace": 0,
+        "returnExact2": 0,
+        "isFavouriteWin": false,
+        "isFavouritePlace": false,
+        "isFavouriteExact2": false,
+        "bettingStatus": "Scratched"
+      },
+      "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/ROYAL%20BLUE%2C%20RED%20DICE%20AND%20SEAMS",
+      "trainerName": "Anthony & S Freedman",
+      "vacantBox": false,
+      "trainerFullName": "ANTHONY & SAM FREEDMAN",
+      "barrierNumber": 14,
+      "riderDriverName": "J McNeil",
+      "riderDriverFullName": "JYE MCNEIL",
+      "handicapWeight": 56,
+      "harnessHandicap": null,
+      "blinkers": false,
+      "claimAmount": -1,
+      "last5Starts": "6113x",
+      "tcdwIndicators": "C",
+      "emergency": true,
+      "penalty": null,
+      "dfsFormRating": 81,
+      "techFormRating": 0,
+      "totalRatingPoints": 0,
+      "earlySpeedRating": 76,
+      "earlySpeedRatingBand": "LEADER",
+      "_links": {
+        "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/16?jurisdiction=NSW"
+      }
+    }
+  ],
+  "oddsUpdateTime": "2025-10-24T06:14:54.000Z",
+  "fixedOddsUpdateTime": "2025-10-24T02:24:00.000Z",
+  "raceComments": "{\"comment\":\"11. FIELDELO was stakes-placed as a 3-year-old and will be even stronger this season. She won the latest of her 2 jumpouts, and is unbeaten fresh up in her light career. She handles any type of track condition and is sure to be among the hardest to beat here. 1. SHIRSHOV is a very handy sprinter with a good record on this track. He was runner-up here 4 weeks ago and will be peaking third up. The blinkers are on for the first time, and he is poised to go one better. 3. POWER OF THE BRAVE resumed at an easier level at Hawkesbury 17 days ago and was too strong late for his rivals, scoring by more than a length. He has 3.5kg less to carry this time, and from a handy gate, he should be right in the thick of the finish again. 10. ONE HARD LADY is a very promising mare who has a few tricks to go along with her talent. She had to trial again after winning here fresh up by a nose, and on raw ability, she has the scope to race right through the grades this season. Stick with her.\",\"runners\":[11,1,3,10],\"exclusive\":true}",
+  "tips": {
+    "tipType": "Standard",
+    "tipster": "Matthew Hill",
+    "tipRunnerNumbers": [11, 10, 1, 3]
+  },
+  "ratings": [
+    {
+      "ratingType": "Rating",
+      "ratingRunnerNumbers": [11, 1, 3, 9]
+    },
+    {
+      "ratingType": "Last12Months",
+      "ratingRunnerNumbers": [11, 2, 8, 1]
+    },
+    {
+      "ratingType": "Recent",
+      "ratingRunnerNumbers": [12, 10, 3, 11]
+    },
+    {
+      "ratingType": "Distance",
+      "ratingRunnerNumbers": [10, 11, 1, 3]
+    },
+    {
+      "ratingType": "Class",
+      "ratingRunnerNumbers": [10, 11, 2, 8]
+    },
+    {
+      "ratingType": "Time",
+      "ratingRunnerNumbers": [11, 10, 9, 1]
+    },
+    {
+      "ratingType": "Overall",
+      "ratingRunnerNumbers": [11, 10, 1, 2]
+    }
+  ],
+  "multiLegApproximates": [],
+  "betTypes": [
+    {
+      "wageringProduct": "Win",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Place",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Quinella",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Exacta",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Duet",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Trifecta",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "FirstFour",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "RunningDouble",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    },
+    {
+      "wageringProduct": "Quaddie",
+      "firstLeg": {
+        "raceNumber": 5,
+        "venueMnemonic": "MVA",
+        "raceType": "R"
+      }
+    }
+  ],
+  "extraMarkets": [
+    {
+      "id": 123245708,
+      "name": "MOONEE VALLEY-R5-Fav Out",
+      "shortName": "MOONEE VALLEY-R5-FavOut",
+      "betOption": "Favourite Out",
+      "message": "Must finish 1st or 2nd behind N/A Runner",
+      "informationMessage": null,
+      "cashOutEligibility": "Disabled",
+      "refundsAndDeductions": true,
+      "closeTime": "2025-10-24T09:15:00.000Z",
+      "bettingStatus": "Open",
+      "allowWin": true,
+      "allowPlace": false,
+      "allowEachWay": false,
+      "allowMulti": true,
+      "allowMultiWin": true,
+      "allowMultiPlace": false,
+      "allowMultiEachWay": false,
+      "numberOfPlaces": 0,
+      "allowBundle": false,
+      "propositions": [
+        {
+          "id": "27602468",
+          "name": "SHIRSHOV",
+          "returnWin": 4.6,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 1,
+          "number": 165890,
+          "runnerNumber": 1,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/BLUE%2C%20WHITE%20HALVES%2C%20RED%20SLEEVES%2C%20QUARTERED%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/1?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602469",
+          "name": "GIN A TONIC",
+          "returnWin": 6.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 2,
+          "number": 165893,
+          "runnerNumber": 2,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20EMERALD%20GREEN%20MALTESE%20CROSS%2C%20QUARTERED%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/2?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602470",
+          "name": "POWER OF THE BRAVE",
+          "returnWin": 6.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 3,
+          "number": 165896,
+          "runnerNumber": 3,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/ROYAL%20BLUE%2C%20WHITE%20STAR%2C%20RED%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/3?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602471",
+          "name": "HULM",
+          "returnWin": 23,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 4,
+          "number": 165899,
+          "runnerNumber": 5,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/RED%2C%20WHITE%20SASH%2C%20QUARTERED%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/5?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602472",
+          "name": "KA YING LUCKY",
+          "returnWin": 34,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 5,
+          "number": 165900,
+          "runnerNumber": 6,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20EMERALD%20GREEN%20SHAMROCK",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/6?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602473",
+          "name": "LAZY SUSAN",
+          "returnWin": 26,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 6,
+          "number": 165919,
+          "runnerNumber": 7,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/DEEP%20NAVY%2C%20MAILBAG%20BLOODSTOCK%20LOGO%2C%20WHITE%20WITH%20ORANGE%20SPOTS%20SLEEVES%20AND%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/7?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602474",
+          "name": "THE SHOWVINIST",
+          "returnWin": 9.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 7,
+          "number": 165920,
+          "runnerNumber": 8,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/LIME%20GREEN%2C%20BLACK%20SPOTS%2C%20LIME%20GREEN%20CAP%20WITH%20BLACK%20SPOTS",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/8?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602475",
+          "name": "MIDNIGHT DEVIL",
+          "returnWin": 19,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 8,
+          "number": 165929,
+          "runnerNumber": 9,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/WHITE%2C%20RED%20SASH%2C%20WHITE%2C%20RED%20AND%20BLACK%20HOOPED%20SLEEVES%2C%20WHITE%2C%20RED%20AND%20BLACK%20SPOTS%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/9?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602476",
+          "name": "ONE HARD LADY",
+          "returnWin": 2.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 9,
+          "number": 165930,
+          "runnerNumber": 10,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/CREAM%2C%20BLACK%20DIAMOND%2C%20DOUBLE%20H%2C%20DIAMONDS%20SLEEVES%2C%20QUARTERED%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/10?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602477",
+          "name": "FIELDELO",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "Reserve",
+          "allowPlace": false,
+          "sortOrder": 10,
+          "number": 165979,
+          "runnerNumber": 11,
+          "isOpen": false,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/MAROON%2C%20YELLOW%20EPAULETTES%20AND%20SLEEVES%2C%20MAROON%20ARMBANDS%20AND%20CAP%2C%20YELLOW%20STAR",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/11?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602478",
+          "name": "VEXATIOUS DANCER",
+          "returnWin": 19,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 11,
+          "number": 165980,
+          "runnerNumber": 12,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/SILVER%2C%20PURPLE%20STAR%2C%20BLACK%20WITH%20MAGENTA%20STARS%20SLEEVES%20AND%20CAP",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/12?jurisdiction=NSW"
+          }
+        },
+        {
+          "id": "27602479",
+          "name": "FILEETA",
+          "returnWin": 17,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "sortOrder": 12,
+          "number": 165989,
+          "runnerNumber": 13,
+          "isOpen": true,
+          "silkURL": "https://api.beta.tab.com.au/v1/tab-info-service/racing/silk/CERISE%20AND%20GREY%20CHECKS%2C%20GREY%20SLEEVES%2C%20CERISE%20CAP%20WITH%20CHECKED%20POM%20POM",
+          "_links": {
+            "form": "https://api.beta.tab.com.au/v1/tab-info-service/racing/dates/2025-10-24/meetings/R/MVA/races/5/form/13?jurisdiction=NSW"
+          }
+        }
+      ]
+    }
+  ],
+  "sameRaceMultiMarkets": [
+    {
+      "id": 123235144,
+      "name": "MOONEE VALLEY-R5-Top1",
+      "shortName": "MOONEE VALLEY-R5-Top1",
+      "betOption": "Top 1",
+      "message": null,
+      "informationMessage": null,
+      "refundsAndDeductions": true,
+      "bettingStatus": "Open",
+      "allowMulti": true,
+      "propositions": [
+        {
+          "name": "SHIRSHOV",
+          "returnWin": 8,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152526,
+          "runnerNumber": 1
+        },
+        {
+          "name": "GIN A TONIC",
+          "returnWin": 12,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152527,
+          "runnerNumber": 2
+        },
+        {
+          "name": "POWER OF THE BRAVE",
+          "returnWin": 12,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152528,
+          "runnerNumber": 3
+        },
+        {
+          "name": "DIRECT",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152529,
+          "runnerNumber": 4,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T03:23:52.000Z"
+        },
+        {
+          "name": "HULM",
+          "returnWin": 41,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152530,
+          "runnerNumber": 5
+        },
+        {
+          "name": "KA YING LUCKY",
+          "returnWin": 71,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152531,
+          "runnerNumber": 6
+        },
+        {
+          "name": "LAZY SUSAN",
+          "returnWin": 51,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152532,
+          "runnerNumber": 7
+        },
+        {
+          "name": "THE SHOWVINIST",
+          "returnWin": 17,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152533,
+          "runnerNumber": 8
+        },
+        {
+          "name": "MIDNIGHT DEVIL",
+          "returnWin": 34,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152534,
+          "runnerNumber": 9
+        },
+        {
+          "name": "ONE HARD LADY",
+          "returnWin": 4.4,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152535,
+          "runnerNumber": 10
+        },
+        {
+          "name": "FIELDELO",
+          "returnWin": 1.95,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152536,
+          "runnerNumber": 11
+        },
+        {
+          "name": "VEXATIOUS DANCER",
+          "returnWin": 34,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152537,
+          "runnerNumber": 12
+        },
+        {
+          "name": "FILEETA",
+          "returnWin": 31,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152538,
+          "runnerNumber": 13
+        },
+        {
+          "name": "DAPPER DARRI",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152539,
+          "runnerNumber": 14,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:42.000Z"
+        },
+        {
+          "name": "OCTRAIN",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152540,
+          "runnerNumber": 15,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:43.000Z"
+        },
+        {
+          "name": "JAHANGIR",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152541,
+          "runnerNumber": 16,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T20:07:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": 123235145,
+      "name": "MOONEE VALLEY-R5-Top2",
+      "shortName": "MOONEE VALLEY-R5-Top2",
+      "betOption": "Top 2",
+      "message": null,
+      "informationMessage": null,
+      "refundsAndDeductions": true,
+      "bettingStatus": "Open",
+      "allowMulti": true,
+      "propositions": [
+        {
+          "name": "SHIRSHOV",
+          "returnWin": 3.25,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152542,
+          "runnerNumber": 1
+        },
+        {
+          "name": "GIN A TONIC",
+          "returnWin": 4.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152543,
+          "runnerNumber": 2
+        },
+        {
+          "name": "POWER OF THE BRAVE",
+          "returnWin": 4.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152544,
+          "runnerNumber": 3
+        },
+        {
+          "name": "DIRECT",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152545,
+          "runnerNumber": 4,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T03:23:52.000Z"
+        },
+        {
+          "name": "HULM",
+          "returnWin": 11,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152546,
+          "runnerNumber": 5
+        },
+        {
+          "name": "KA YING LUCKY",
+          "returnWin": 19,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152547,
+          "runnerNumber": 6
+        },
+        {
+          "name": "LAZY SUSAN",
+          "returnWin": 15,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152548,
+          "runnerNumber": 7
+        },
+        {
+          "name": "THE SHOWVINIST",
+          "returnWin": 6,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152549,
+          "runnerNumber": 8
+        },
+        {
+          "name": "MIDNIGHT DEVIL",
+          "returnWin": 11,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152550,
+          "runnerNumber": 9
+        },
+        {
+          "name": "ONE HARD LADY",
+          "returnWin": 2.05,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152551,
+          "runnerNumber": 10
+        },
+        {
+          "name": "FIELDELO",
+          "returnWin": 1.2,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152552,
+          "runnerNumber": 11
+        },
+        {
+          "name": "VEXATIOUS DANCER",
+          "returnWin": 11,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152553,
+          "runnerNumber": 12
+        },
+        {
+          "name": "FILEETA",
+          "returnWin": 10,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152554,
+          "runnerNumber": 13
+        },
+        {
+          "name": "DAPPER DARRI",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152555,
+          "runnerNumber": 14,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:42.000Z"
+        },
+        {
+          "name": "OCTRAIN",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152556,
+          "runnerNumber": 15,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:43.000Z"
+        },
+        {
+          "name": "JAHANGIR",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152557,
+          "runnerNumber": 16,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T20:07:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": 123235146,
+      "name": "MOONEE VALLEY-R5-Top3",
+      "shortName": "MOONEE VALLEY-R5-Top3",
+      "betOption": "Top 3",
+      "message": null,
+      "informationMessage": null,
+      "refundsAndDeductions": true,
+      "bettingStatus": "Open",
+      "allowMulti": true,
+      "propositions": [
+        {
+          "name": "SHIRSHOV",
+          "returnWin": 2.15,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152558,
+          "runnerNumber": 1
+        },
+        {
+          "name": "GIN A TONIC",
+          "returnWin": 2.75,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152559,
+          "runnerNumber": 2
+        },
+        {
+          "name": "POWER OF THE BRAVE",
+          "returnWin": 2.75,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152560,
+          "runnerNumber": 3
+        },
+        {
+          "name": "DIRECT",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152561,
+          "runnerNumber": 4,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T03:23:52.000Z"
+        },
+        {
+          "name": "HULM",
+          "returnWin": 6.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152562,
+          "runnerNumber": 5
+        },
+        {
+          "name": "KA YING LUCKY",
+          "returnWin": 10,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152563,
+          "runnerNumber": 6
+        },
+        {
+          "name": "LAZY SUSAN",
+          "returnWin": 8,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152564,
+          "runnerNumber": 7
+        },
+        {
+          "name": "THE SHOWVINIST",
+          "returnWin": 3.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152565,
+          "runnerNumber": 8
+        },
+        {
+          "name": "MIDNIGHT DEVIL",
+          "returnWin": 6,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152566,
+          "runnerNumber": 9
+        },
+        {
+          "name": "ONE HARD LADY",
+          "returnWin": 1.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152567,
+          "runnerNumber": 10
+        },
+        {
+          "name": "FIELDELO",
+          "returnWin": 1.02,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152568,
+          "runnerNumber": 11
+        },
+        {
+          "name": "VEXATIOUS DANCER",
+          "returnWin": 6,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152569,
+          "runnerNumber": 12
+        },
+        {
+          "name": "FILEETA",
+          "returnWin": 5.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152570,
+          "runnerNumber": 13
+        },
+        {
+          "name": "DAPPER DARRI",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152571,
+          "runnerNumber": 14,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:42.000Z"
+        },
+        {
+          "name": "OCTRAIN",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152572,
+          "runnerNumber": 15,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:43.000Z"
+        },
+        {
+          "name": "JAHANGIR",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152573,
+          "runnerNumber": 16,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T20:07:38.000Z"
+        }
+      ]
+    },
+    {
+      "id": 123235147,
+      "name": "MOONEE VALLEY-R5-Top4",
+      "shortName": "MOONEE VALLEY-R5-Top4",
+      "betOption": "Top 4",
+      "message": null,
+      "informationMessage": null,
+      "refundsAndDeductions": true,
+      "bettingStatus": "Open",
+      "allowMulti": true,
+      "propositions": [
+        {
+          "name": "SHIRSHOV",
+          "returnWin": 1.65,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152574,
+          "runnerNumber": 1
+        },
+        {
+          "name": "GIN A TONIC",
+          "returnWin": 2.05,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152575,
+          "runnerNumber": 2
+        },
+        {
+          "name": "POWER OF THE BRAVE",
+          "returnWin": 2.05,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152576,
+          "runnerNumber": 3
+        },
+        {
+          "name": "DIRECT",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152577,
+          "runnerNumber": 4,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T03:23:52.000Z"
+        },
+        {
+          "name": "HULM",
+          "returnWin": 4.25,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152578,
+          "runnerNumber": 5
+        },
+        {
+          "name": "KA YING LUCKY",
+          "returnWin": 6,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152579,
+          "runnerNumber": 6
+        },
+        {
+          "name": "LAZY SUSAN",
+          "returnWin": 5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152580,
+          "runnerNumber": 7
+        },
+        {
+          "name": "THE SHOWVINIST",
+          "returnWin": 2.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152581,
+          "runnerNumber": 8
+        },
+        {
+          "name": "MIDNIGHT DEVIL",
+          "returnWin": 3.75,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152582,
+          "runnerNumber": 9
+        },
+        {
+          "name": "ONE HARD LADY",
+          "returnWin": 1.24,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152583,
+          "runnerNumber": 10
+        },
+        {
+          "name": "FIELDELO",
+          "returnWin": 1.01,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152584,
+          "runnerNumber": 11
+        },
+        {
+          "name": "VEXATIOUS DANCER",
+          "returnWin": 3.75,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152585,
+          "runnerNumber": 12
+        },
+        {
+          "name": "FILEETA",
+          "returnWin": 3.5,
+          "returnPlace": 1.01,
+          "bettingStatus": "Open",
+          "allowPlace": false,
+          "number": 152586,
+          "runnerNumber": 13
+        },
+        {
+          "name": "DAPPER DARRI",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152587,
+          "runnerNumber": 14,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:42.000Z"
+        },
+        {
+          "name": "OCTRAIN",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152588,
+          "runnerNumber": 15,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-23T20:55:43.000Z"
+        },
+        {
+          "name": "JAHANGIR",
+          "returnWin": 0,
+          "returnPlace": 0,
+          "bettingStatus": "LateScratched",
+          "allowPlace": false,
+          "number": 152589,
+          "runnerNumber": 16,
+          "winDeduction": 0,
+          "placeDeduction": 0,
+          "scratchedTime": "2025-10-22T20:07:38.000Z"
+        }
+      ]
+    }
+  ]
+}
